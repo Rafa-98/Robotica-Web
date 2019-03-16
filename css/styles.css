@@ -41,7 +41,7 @@
 }
 
 .rounded-circle{
-    height: 300px;
+    height: 250px;  /* estaba en 300 px*/
 }
 
 .service{
@@ -67,4 +67,3 @@
 .margen_abajo{
     margin-bottom: 5px;
 }
-
